@@ -32,3 +32,6 @@ that have the lowest average are more similar.
 - Scipy (Dendogram Visualization)
 - Sklean (AgglomerativeClustering)
 
+## Vizualizing the numbers of the clusters
+
+![cluster](https://github.com/Riquinho93/Customer-Clustering-using-Hierarchical-clustering/blob/main/hierarchical%20clustering.png)
