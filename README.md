@@ -1,5 +1,7 @@
 # Customer Clustering using Hierarchical clustering
 
+![Dedrogram](https://github.com/Riquinho93/Customer-Clustering-using-Hierarchical-clustering/blob/main/dendrogram.png)
+
 *Hierarchical grouping* - data is grouped in a tree and can be agglomerative and divisive, it depends on whether the hierarchical composition is
 formed using a bottom-up (merge) or top-down (split) strategy.
 
